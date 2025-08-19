@@ -85,8 +85,8 @@ while game:
         racket2.reset()
         ball.reset()
 
-display.update()
-clock.tick(FPS)
+    display.update()
+    clock.tick(FPS)
 
 
 
